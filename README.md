@@ -1,5 +1,11 @@
 # gistproxy
 
+> A dead simple proxy to make authenticated gist reads (rate limits stink)
+
+## Usage
+
+Load up the proxy then visit `https://localhost:3000/api/<gist_id>`
+
 ## Run locally
 
 ```bash
